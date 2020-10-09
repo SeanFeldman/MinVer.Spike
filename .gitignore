@@ -26,3 +26,6 @@
 /SemVer.Spike/obj/Debug/netstandard2.0/SemVer.Spike.csprojAssemblyReference.cache
 /SemVer.Spike/obj/Debug/SemVer.Spike.1.2.0-preview.0.2.nuspec
 /SemVer.Spike/SemVer.Spike.csproj
+/.vs/SemVer.Spike/DesignTimeBuild/.dtbcache.v2
+/SemVer.Spike/bin/Debug/SemVer.Spike.*.*.*.nupkg
+/SemVer.Spike/obj/Debug/SemVer.Spike.*.*.*.nuspec
